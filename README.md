@@ -1,6 +1,8 @@
  # Map_View
-
 _____________________________
 
-## **You can search anywhere by that app**😎
+# Python project
 
+## **You can search anywhere by that app**
+
+_____________________________
